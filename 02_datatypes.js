@@ -10,3 +10,4 @@ let id = null; // null = standalone value that represents nothing
 let city; // undefined = value that is not yet defined
 // symbol = unique
 console.log(typeof id); //null is an object
+console.log(id);
