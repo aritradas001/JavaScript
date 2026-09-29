@@ -30,3 +30,4 @@ score = "satish" // converting string to number, NaN = Not a Number
 score = Number(score);
 console.log(score);
 console.log(typeof score);
+// NaN = Not a Number, it is a number type but not a valid number
